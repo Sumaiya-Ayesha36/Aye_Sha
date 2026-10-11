@@ -26,6 +26,27 @@
 - 📫 How to reach me: **sadik.dev07@gmail.com** or **shimul.cse28@gmail.com**
 - 📍 Location: **Uttara Sector 7, Dhaka 1230**
 
+
+
+
+<!-- Table Layout for Perfect Alignment -->
+<table border="0">
+  <tr>
+    <td valign="top" width="65%">
+      <ul>
+        <li>🔭 I am currently working as a <b>Web Developer</b> with <b>2.1 years of experience</b> at <b>Systema</b></li>
+        <li>🌱 I am currently studying for my <b>BSc in Computer Science & Engineering</b> at <b>Uttara University</b> (Enrolled, Year: 2023)</li>
+        <li>🎓 My educational background also includes HSC from <b>City Residential Model College</b> (Year: 2022)</li>
+        <li>📫 How to reach me: <b>sadik.dev07@gmail.com</b> or <b>shimul.cse28@gmail.com</b></li>
+        <li>📍 Location: <b>Uttara Sector 7, Dhaka 1230</b></li>
+      </ul>
+    </td>
+    <td align="center" valign="top" width="35%">
+      <img src="https://raw.githubusercontent.com/Sumaiya-Ayesha36/Aye_Sha/main/side.gif" width="100%" alt="Developer GIF" />
+    </td>
+  </tr>
+</table>
+
 ### 🌐 Connect with me:
 <p align="left">
   <!-- LinkedIn -->
