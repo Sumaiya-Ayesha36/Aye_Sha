@@ -45,11 +45,7 @@
   <a href="https://wa.me/8801787176302" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <!-- Portfolio / Website -->
-  <a href="https://sibly-sadik-shimul.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
-  </a>
-  
+
   <!-- Instagram -->
   <a href="https://instagram.com/shimuldev07" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
