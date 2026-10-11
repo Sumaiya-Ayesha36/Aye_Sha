@@ -1,6 +1,8 @@
 # Aye_Sha
 <h1>Hi Everyone! </h1>
 
+![Header Banner](https://raw.githubusercontent.com/Shimulcse-stack/Shi_Mul/main/banner.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=100&color=4D38B1&center=true&vCenter=true&random=true&width=1000&lines=%F0%9F%94%A5+A+Passionate+Web+Developer+%F0%9F%94%A5;%F0%9F%94%A5+2.1%2B+Years+of+Experience+%F0%9F%94%A5;%F0%9F%94%A5+Full-Stack+%26+Backend+Enthusiast+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <div align="center">
 
