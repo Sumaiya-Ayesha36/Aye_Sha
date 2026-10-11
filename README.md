@@ -12,10 +12,6 @@
   <img align="right" src="https://raw.githubusercontent.com/sibly-sadik/sibly-sadik/main/developer.gif" width="300" alt="Developer Illustration" onError="this.onerror=null;this.src='https://illustrations.popsy.co/white/coder.svg';" />
 </p>
 
-<p align="left">
-  <img src="https://profile-counter.glitch.me/sibly-sadik/count.svg" alt="Profile Views" />
-</p>
-
 <!-- Follow Button -->
 <p align="left">
   <a href="https://github.com/sibly-sadik">
