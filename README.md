@@ -7,16 +7,13 @@
 
 <br/>
 
-<!-- Main Layout: Avatar Image (Right) & Info (Left) -->
+
+<!-- Main Layout: GIF Illustration (Right) & Info (Left) -->
 <p align="right">
-  <img align="right" src="https://raw.githubusercontent.com/sibly-sadik/sibly-sadik/main/developer.gif" width="300" alt="Developer Illustration" onError="this.onerror=null;this.src='https://illustrations.popsy.co/white/coder.svg';" />
+  <img align="right" src="https://raw.githubusercontent.com/Sumaiya-Ayesha36/Aye_Sha/main/side.gif" width="300" alt="Developer GIF" />
 </p>
 
-<p align="right">
-  <img align="right" src="https://raw.githubusercontent.com/Sumaiya-Ayesha36/Aye_Sha/main/side.gif" width="300" alt="Side GIF" />
-</p>
-
-<!-- Follow Button -->
+<!-- Follow / Profile Views Button -->
 <p align="left">
   <a href="https://github.com/sibly-sadik">
     <img src="https://komarev.com/ghpvc/?username=sibly-sadik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -28,7 +25,6 @@
 - 🎓 My educational background also includes HSC from **City Residential Model College** (Year: 2022)
 - 📫 How to reach me: **sadik.dev07@gmail.com** or **shimul.cse28@gmail.com**
 - 📍 Location: **Uttara Sector 7, Dhaka 1230**
-
 
 ### 🌐 Connect with me:
 <p align="left">
