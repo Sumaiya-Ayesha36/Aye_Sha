@@ -62,4 +62,12 @@
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sibly-sadik&show_icons=true&locale=en" alt="sibly-sadik" /></p>
+<div align="center">
+  <p>
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=sibly-sadik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibly-sadik&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibly-sadik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
+</div>
