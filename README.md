@@ -24,8 +24,7 @@
 - 🎓 My educational background also includes HSC from **City Residential Model College** (Year: 2022)
 - 📫 How to reach me: **sadik.dev07@gmail.com** or **shimul.cse28@gmail.com**
 - 📍 Location: **Uttara Sector 7, Dhaka 1230**
-https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTFrbmdiczFsYjllNWdtNDV0amMzdTYxMnhuanN1dW91MTY0azhuNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/836HiJc7pgzy8iNXCn/giphy.gif
-<br/>
+![side]] Banner](https://raw.githubusercontent.com/Shimulcse-stack/Shi_Mul/main/side.gif)
 
 ### 🌐 Connect with me:
 <p align="left">
