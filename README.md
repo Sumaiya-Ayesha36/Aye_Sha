@@ -1,5 +1,7 @@
 # Aye_Sha
 <h1>Hi Everyone! </h1>
+
+
 <div align="center">
 
 <!-- Typing Animation Header -->
@@ -11,15 +13,15 @@
 
 <br/>
 
-<!-- Main Content Grid with Avatar Image -->
+<!-- Main Layout: Avatar Image (Right) & Info (Left) -->
 <p align="right">
-  <img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-illustration-download-in-svg-png-gif-file-formats--coding-programming-software-development-pack-business-illustrations-3378411.png" width="320" alt="Developer Illustration" />
+  <img align="right" src="https://raw.githubusercontent.com/sibly-sadik/sibly-sadik/main/developer.gif" width="300" alt="Developer Illustration" onError="this.onerror=null;this.src='https://illustrations.popsy.co/white/coder.svg';" />
 </p>
 
-<!-- Follow Badge & Bio -->
+<!-- Follow Button -->
 <p align="left">
   <a href="https://github.com/sibly-sadik">
-    <img src="https://img.shields.io/github/followers/sibly-sadik?label=FOLLOW%20%40sibly-sadik&style=social" alt="GitHub Follow" />
+    <img src="https://komarev.com/ghpvc/?username=sibly-sadik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -36,9 +38,6 @@
   <a href="https://linkedin.com/in/shimulcse" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
   <a href="https://facebook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
@@ -48,7 +47,6 @@
 
 ### Languages and Tools:
 <p align="left">
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -58,17 +56,12 @@
   <img src="https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/REDUX-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <br/>
-  <!-- Backend & Database -->
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <br/>
-  <!-- Tools & Other -->
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
